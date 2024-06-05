@@ -6,4 +6,4 @@
   args: []
   require_serial: false
   additional_dependencies:
-    - prettier@$UPSTREAM_TAG
+    - prettier@3.3.1
