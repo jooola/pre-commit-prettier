@@ -8,7 +8,7 @@ Add the following snippet to your `.pre-commit-config.yaml`:
 
 ```yaml
 - repo: https://github.com/jooola/pre-commit-prettier
-  rev: v3.6.2 # Pick a tag from https://github.com/jooola/pre-commit-prettier/tags
+  rev: 3.6.2 # Pick a tag from https://github.com/jooola/pre-commit-prettier/tags
   hooks:
     - id: prettier
 ```
